@@ -46,7 +46,7 @@ label {
   margin-top: 16px;
   text-align: center;
 }
-#submit-btn {
+.submit-btn {
   background: -webkit-linear-gradient(right, #a6f77b, #2dbd6e);
   border: none;
   border-radius: 21px;
